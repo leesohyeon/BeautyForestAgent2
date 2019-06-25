@@ -47,6 +47,21 @@ namespace BeautyForestAgent
         {
             VisibleChange(true);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CmsMenu_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void StatusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 
 }
